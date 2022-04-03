@@ -1,0 +1,38 @@
+[
+    {
+        "_id": "101",
+        "name": "Giuseppe Luppino",
+        "opinion": "Ordered in August and arrived in the right times Friday 21 August, considering that I live in Sardinia, perfect times. In the package we have instructions and a small flyer for registration and extension of the warranty, there is a USB cable with magnetic clip on the side that goes on the device, so extremely easy to load, there is no wall socket. The Smartwatch has several functions, very useful and intuitive including, calculating blood pressure, beating, oxygen in the blood, 8 modes of exercise.",
+        "rating": "5"
+    },
+    {
+        "_id": "102",
+        "name": "Mehr Schein",
+        "opinion": "Well, where should I start... best with something positive. The smartwatch is light and really unnoticeable after a while. Aaaber, what is listed in the product description is partly questionable and no one can know exactly what happens to the data once they have landed in the mobile app. ",
+        "rating": "4.5"
+    },
+    {
+        "_id": "103",
+        "name": "Nico Hernandez",
+        "opinion": "Very good watch. Several physical exercises available such as running or cycling, it follows the heart rate on request or programmed continuously. Measurements of blood oxygen levels and blood pressure are also included. An app for tracking all these metrics is available for download on Android or Apple. After exercise, after sweating well, it is easy to clean the watch because it is waterproof, you can even keep it in the shower 😉.",
+        "rating": "4.5"
+    },
+    {
+        "_id": "104",
+        "name": "Selena Gomez",
+        "opinion": "I have a very mixed opinion regarding this smart watch. I can't decide if I keep it or if I return it. The big question I ask myself is “do other watches of the same price order do better?” The step counter looks correct but not accurate. The heart rate, I thought it just at first (checked with two other approved devices), but doing regular checks I ended up with deviations up to 30 points! The watch indicated 70 instead of 100!",
+        "rating": "2.5"
+    },
+    {
+        "_id": "105",
+        "name": "Ignacio Solano",
+        "opinion": "I'm not too tech savvy and wanted a good basic inteligente watch with good apps. If you're like me and want to get incoming call notifications by the watch vibrating and also want to know your blood pressure, how much you slept or how many steps you've taken amongst other basic functions, then this is the watch for you",
+        "rating": "5"
+    },
+    {
+        "_id": "106",
+        "name": "Krystal Alexandra",
+        "opinion": "I got the pink watch for myself and the black watch for my husband. This watch isn't accurate at all and it honestly starts to mess with your head a bit. The sleep tracking was beyond off, it would mark that I only had 8 minutes of deep sleep. The mobile app was easy to use but it's so outdated. I always have to restart the app for anything to work.",
+        "rating": "1.5"
+    }
+]
