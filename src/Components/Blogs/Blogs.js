@@ -2,7 +2,7 @@ import React from 'react';
 
 const Blogs = () => {
     return (
-        <div className='container mx-auto'>
+        <div className='container mx-auto '>
             <div className='m-10'>
                 <h1 className='text-3xl text-teal-700 mb-6'><span className='text-red-600 underline font-medium'>Question: </span>Difference between inline, block and inline-block element?</h1>
                 <p className='text-xl'><span className='text-2xl text-green-800 underline font-semibold'>Answer: </span><br /> <span className='font-medium'>1.Inline- </span>Displays an element as an inline element. The element doesn't start on a new line. Any height and width properties will have no effect. Example of inline element span, a, img </p>
