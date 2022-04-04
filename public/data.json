@@ -1,0 +1,50 @@
+[
+    {
+        "id": "41",
+        "month": "Mar",
+        "investment": 150000,
+        "sell": 241,
+        "revenue": 26401,
+        "fill": "#8884d8"
+    },
+    {
+        "id": "42",
+        "month": "Apr",
+        "investment": 200000,
+        "sell": 423,
+        "revenue": 34500,
+        "fill": "#83a6ed"
+    },
+    {
+        "id": "43",
+        "month": "May",
+        "investment": 250000,
+        "sell": 726,
+        "revenue": 20010,
+        "fill": "#8dd1e1"
+    },
+    {
+        "id": "44",
+        "month": "Jun",
+        "investment": 300000,
+        "sell": 529,
+        "revenue": 47405,
+        "fill": "#82ca9d"
+    },
+    {
+        "id": "45",
+        "month": "Jul",
+        "investment": 350000,
+        "sell": 601,
+        "revenue": 55900,
+        "fill": "#a4de6c"
+    },
+    {
+        "id": "46",
+        "month": "Aug",
+        "investment": 400000,
+        "sell": 670,
+        "revenue": 67000,
+        "fill": "gold"
+    }
+]

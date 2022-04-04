@@ -9,5 +9,4 @@ const useReviews = () => {
     }, [])
     return [reviews, setReviews];
 }
-
 export default useReviews;

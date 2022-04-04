@@ -1,9 +1,15 @@
 import React from 'react';
+import Barchart from '../Barchart/Barchart';
+import Funnelchart from '../Funnelchart/Funnelchart';
+import Piechart from '../Piechart/Piechart';
 
 const Dashboard = () => {
+
     return (
         <div>
-            Dashboard
+            <Barchart></Barchart>
+            <Funnelchart></Funnelchart>
+            <Piechart></Piechart>
         </div>
     );
 };
